@@ -1,7 +1,7 @@
 Tabbed Search for WorldCat Local / Discovery
 ============================================
 
-To use:  upload search.html and style.css onto a web server.  Replace all search form action URLs with the URL of your WorldCat Local / Discovery instance.  Update databaseList, format/subformat, and scope input parameters with the parameters you want to be searched.
+To use:  upload search.html to your chosen web server.  Replace all occurrences of YOURINSTITUTION with the institution portion of your WorldCat Local / Discovery domain.  Update databaseList, format/subformat, and scope input parameters with the parameters you want to be searched.
 
 ![Basic Search Box](https://raw.githubusercontent.com/lpmagnuson/discovery-tabbed-search/master/images/search1.png)
 
